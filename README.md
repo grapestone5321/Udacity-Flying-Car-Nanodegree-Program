@@ -12,6 +12,8 @@ You will learn about our quadrotor test platform, work in our custom simulator, 
 
 - Project: Backyard Flyer
 
+https://github.com/grapestone5321/fcnd-backyard_flyer
+
 Estimated time: 7 days
 
 
@@ -29,6 +31,8 @@ You will apply these skills in your second project—autonomously navigating you
 
 - Project: 3D Motion Planning
 
+https://github.com/grapestone5321/fcnd-motion-planning
+
 Estimated time: 28 days
 
 
@@ -44,6 +48,8 @@ In this course, you will build a nonlinear cascaded controller and incorporate i
 
 - Project: Control of a 3D Quadrotor
 
+https://github.com/grapestone5321/fcnd-control_of_a_3d-quadrotor_cpp
+
 Estimated time: 28 days
 
 
@@ -58,6 +64,8 @@ Instead of assuming perfect sensor readings, you will utilize sensor fusion and 
 You will design an Extended Kalman Filter (EKF) to estimate attitude and position from IMU and GPS data of a flying robot.
 
 - Project: Building an Estimator
+
+https://github.com/grapestone5321/fcnd-building_an_estimator_cpp
 
 Estimated time: 29 days
 
