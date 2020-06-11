@@ -71,7 +71,11 @@ Get personalized feedback on how to improve yours! You may elect to opt-out of t
 
 - Project: Optimize Your GitHub Profile
 
+https://github.com/grapestone5321
+
 - Project: Improve Your LinkedIn Profile
+
+https://www.linkedin.com/in/grapestone5321/?locale=en_US
 
 Estimated time: 2 days
 
